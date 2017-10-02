@@ -8,7 +8,7 @@
 
 \title{Ecuaciones en Diferencias}
 
-\author{Cristy Franco}
+\author{Kasandra Aguilera Martínez}
 
 \date{18 de septiembre de 2017}
 
@@ -17,11 +17,11 @@
 \maketitle
 
 
-\section{Ecuaciones de Primer Orden}
+\section{Ecuaciones de Primer Grado}
 
 \subsection{Ecuaciones Liniales}
 
-Una ecuación en diferencias de primer orden tiene la forma $x_{n+1}=ax_n$ donde $a$ es una constante.
+Una ecuación en diferencias de primer grado tiene la forma $x_{n+1}=ax_n$ donde $a$ es una constante.
 
 La formula para resolver ecuaciones lineales es 
 \begin{equation}
@@ -51,11 +51,9 @@ donde $\alpha=\frac{b}{1-a}$.
 
 Para deducir esta fórmula usamos que $$\sum_{i=0}^{n-1}a^i=\frac{a^n-1}{a-1}$$
 
-\section{Ecuaciones de Segundo Orden}
+\section{Ecuaciones de Segundo Grado}
 
 %El método para resolver estas ecuaciones está inspirado en la formula \ref{eq:eq2}.
-
-Para resolver una ecuación en diferencias de segundo orden. 
  
 \end{document}
 
